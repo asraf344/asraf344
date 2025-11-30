@@ -40,7 +40,7 @@ I bring a unique blend of backend engineering and DevOps expertise to build scal
 - **Senior DevOps Engineer — Stibo DX (2020–2025)**
 - **Team Lead & Scrum Master — Stibo DX (2013–2020)**
 - **Senior Software Engineer — SDSL, (2012-2013)**
-- - **Senior Software Engineer — Aprosoft(2011-2012)**
+- **Senior Software Engineer — Aprosoft(2011-2012)**
 - **Team Lead — Together Initiative (2010-2011)**
 - **Software Engineer — Spectrum Engineering Consortium (2007-2010)**
 
