@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi there, I’m Md Asraful Haque (With nick name Sohel)
 
-<!--
-**asraf344/asraf344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I’m a seasoned IT professional with **18+ years** of experience spanning **DevOps, software development, cloud architecture, automation, observability and platform engineering**. 
+I bring a unique blend of backend engineering and DevOps expertise to build scalable systems, automate delivery, and improve collaboration between development and operations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Expertise
+- **DevOps & DevSecOps**
+- **Kubernetes • ArgoCD • Tekton • AWS • CI/CD Automation**
+- **Infrastructure as Code (Golang Operator, Terraform, CloudFormation)**
+- **Observability — Prometheus, Grafana, Loki, Dynatrace**
+- **Backend — Java, Golang, Python**
+- **Frontend — Angular, TypeScript, Node.js**
+- **Team Leadership — Tech Lead & Scrum Master**
+
+---
+
+## Highlighted Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Conscan** | On-demand compliance scanning framework for Container Image | Go, K8s, CI/CD |
+| **Prometric-Go** | Lightweight Golang Prometheus client to expose metrics effortlessly | Go, Prometheus |
+| **Prometheus-K6-Fusion** | Merge K6 performance tests & Prometheus monitoring seamlessly | Go, Prometheus, K6 |
+
+🔗 Explore my repos: https://github.com/peek8
+
+---
+
+## Current Focus
+- Writing **Kubernetes operators** in Golang
+- Improving **observability & SLO-driven operational insights**
+- Automating repetitive operational tasks via **chatops, pipelines & IaC**
+- Building **platform components that improve developer experience**
+
+---
+
+## Career Snapshot
+- **Senior DevOps Engineer — Stibo DX (2020–2025)**
+- **Team Lead & Scrum Master — Stibo DX (2013–2020)**
+- **Senior Software Engineer — SDSL, (2012-2013)**
+- - **Senior Software Engineer — Aprosoft(2011-2012)**
+- **Team Lead — Together Initiative (2010-2011)**
+- **Software Engineer — Spectrum Engineering Consortium (2007-2010)**
+
+
+---
+
+## 🎓 Certifications & Education
+- AWS Certified Solutions Architect — Associate (2025–2028)
+- M.S. & B.Sc. in Computer Science & Engineering — Jahangirnagar University
+
+---
+
+## Languages
+- 🇧🇩 Bengali — Native  
+- 🇬🇧 English — Fluent  
+
+---
+
+## Connect With Me
+-  LinkedIn: https://www.linkedin.com/in/asrafulhaque
+-  GitHub: https://github.com/peek8
+-  Email: asraf344@gmail.com
+
+---
+
+### Philosophy
+> Every Problem has a solution.
+
