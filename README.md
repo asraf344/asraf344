@@ -4,6 +4,7 @@
 I’m a seasoned IT professional with **18+ years** of experience spanning **DevOps, software development, cloud architecture, automation, observability and platform engineering**. 
 I bring a unique blend of backend engineering and DevOps expertise to build scalable systems, automate delivery, and improve collaboration between development and operations.
 
+Wanna have a quick call, [Schedule a meeting](https://calendly.com/asraf344/30min).
 ---
 
 ## Areas of Expertise
@@ -64,6 +65,7 @@ I bring a unique blend of backend engineering and DevOps expertise to build scal
 -  LinkedIn: https://www.linkedin.com/in/asrafulhaque
 -  GitHub: https://github.com/peek8
 -  Email: asraf344@gmail.com
+-  For a quick call : [Schedule A Meeting](https://calendly.com/asraf344/30min) 
 
 ---
 
