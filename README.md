@@ -21,6 +21,7 @@ I bring a unique blend of backend engineering and DevOps expertise to build scal
 | Project | Description | Tech |
 |--------|-------------|------|
 | **Conscan** | On-demand compliance scanning framework for Container Image | Go, K8s, CI/CD |
+| **Bifrost** | Kubernetes Operator that automatically deploys Grafana Alloy, Loki, and Grafana | Go, Grafana, Loki, Alloy |
 | **Prometric-Go** | Lightweight Golang Prometheus client to expose metrics effortlessly | Go, Prometheus |
 | **Prometheus-K6-Fusion** | Merge K6 performance tests & Prometheus monitoring seamlessly | Go, Prometheus, K6 |
 
